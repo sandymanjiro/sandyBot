@@ -22,11 +22,11 @@ async def typewriter(typew):
 @register(outgoing=True, pattern='^.kamu(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    sleep(3)
+    sleep(2)
     await typew.edit("`Cuma Mau Bilang`")
-    sleep(3)
+    sleep(2)
     await typew.edit("`Aku Suka sama Kamu, Kamu cantik di mata aku😔`")
-    sleep(1)
+    sleep(2)
     await typew.edit("`SLIPKOL YUK 🥺`")
 # Create by myself @localheart
 
@@ -36,9 +36,9 @@ async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(1)
     await typew.edit("`Lu Mau Tau Sebuah Fakta?`")
-    sleep(3)
+    sleep(2)
     await typew.edit("`Fakta Yang Belum Terbongkar Selama Ini`")
-    sleep(3)
+    sleep(2)
     await typew.edit("`GUA GANTENG FIX NO DEBAT😏`")
 
 
@@ -94,21 +94,21 @@ async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(1)
     await typew.edit("`Pe senggol dong`")
-    sleep(4)
+    sleep(2)
     await typew.edit("**Diem mulu kaya kaleng**")
-    sleep(4)
+    sleep(2)
     await typew.edit("`woy gblk...`")
-    sleep(4)
+    sleep(2)
     await typew.edit("`kena mental yaa...😪`")
-    sleep(4)
+    sleep(2)
     await typew.edit("`cupu kaliaaaaaaaaan 🖕🖕..`")
-    sleep(4)
+    sleep(2)
     await typew.edit("`Gua ada pantun nih`")
-    sleep(4)
+    sleep(2)
     await typew.edit("`Eh gua lupaaa...`")
-    sleep(4)
+    sleep(2)
     await typew.edit("`Maap bang gajadiii`")
-    sleep(4)
+    sleep(2)
     await typew.edit("`heheee `😁")
     sleep(2)
     await typew.edit("`Kabur ahh ....🏃‍♂️🏃‍♂️🏃‍♂️`")
@@ -137,9 +137,9 @@ CMD_HELP.update({
     "panimasi":
     "🗿CMD🗿`.pe`\
 \nPenjelasan: Cek lah asw.\
-\n\n🗿CMD🗿`.iky`\
+\n\n🗿CMD🗿`.nis`\
 \nPenjelasan: Cek lah asw.\
-\n\n🗿CMD🗿`.ilyu`\
+\n\n🗿CMD🗿`.kamu`\
 \nPenjelasan: Cek lah asw.\
 \n\n🗿CMD🗿`p`\
 \nPenjelasan: Cek lah asw.\
