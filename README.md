@@ -1,16 +1,13 @@
-# <p align="center"> ✘ PARADISE USERBOT ✘
-![Paradise-Userbot Logo](https://telegra.ph/file/8f6dc8c4536b52ca3271c.jpg)
-
-<p align="center">
-  <a href="https://cooltext.com"><img src="https://images.cooltext.com/5536679.gif" width="802" height="125" alt="Paradise-Userbot" /></a>
+# <p align="center"> 🌀 ParadoXbot 🌀
+![Paradise-Userbot Logo](https://telegra.ph/file/63d4867949ac0495d850f.jpg)
 
 <p align="center">
   <a href="https://github.com/Rzky3016/Paradise-Userbot/fork">
     <img src="https://img.shields.io/github/forks/Rzky3016/Paradise-Userbot?label=Fork&style=social">
     
 <p align="center">
-    <a href="https://github.com/Rzky3016/Paradise-Userbot">
-      <img src="https://img.shields.io/github/stars/Rzky3016/Paradise-Userbot?style=social">
+    <a href="https://github.com/nishfu22/ParadoXbot">
+      <img src="https://img.shields.io/github/stars/nishfu22/ParadoXbot?style=social">
     </a></p>
 
 
@@ -27,8 +24,8 @@
 <h3 align="center">Userbot Yang Digunakan Untuk Bersenang-Senang Di Telegram</h3>
 <p align="center">&nbsp;</p>
 
-### String Session Paradise Userbot
-Repo Yang Dibuat [Rizky](https://t.me/Nopegoodloking) Dari Berbagai Repo Userbot Github 
+### String Session ParadoXbot
+Repo Yang Dibuat [Nishfu](https://t.me/pachemild) Dari Berbagai Repo Userbot Github 
 String_Session   [![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://replit.com/@Rzky3016/String-Session-Paradise)
 
 ## Cara Deploy 👷
@@ -47,13 +44,13 @@ String_Session   [![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/Genera
 
 ## Group Support 🛠
 
-   <a href="https://t.me/paradiseuserbot"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/ZoneVirtuality"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
 
 
-## <p align="center">DEPLOY Paradise-Userbot</p>
+## <p align="center">DEPLOY ParadoXbot</p>
 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Rzky3016/Paradise-Userbot/tree/Paradise-Userbot"> <img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-yellow?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/nishfu22/ParadoXbot/tree/Paradise-Userbot"> <img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-yellow?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
 
 <br>
 </p>
