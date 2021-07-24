@@ -19,15 +19,15 @@ async def typewriter(typew):
 # Create by myself @localheart
 
 
-@register(outgoing=True, pattern='^ilyu(?: |$)(.*)')
+@register(outgoing=True, pattern='^.kamu(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(3)
     await typew.edit("`Cuma Mau Bilang`")
     sleep(3)
-    await typew.edit("`Aku Sayang Kamu, Kamu Sangat Berharga Dan Berarti Di Hidupku`")
+    await typew.edit("`Aku Suka sama Kamu, Kamu cantik di mata aku😔`")
     sleep(1)
-    await typew.edit("`I LOVE YOU 💞`")
+    await typew.edit("`SLIPKOL YUK 🥺`")
 # Create by myself @localheart
 
 
@@ -89,29 +89,29 @@ async def typewriter(typew):
 # create by iky
 
 
-@register(outgoing=True, pattern='^.byy(?: |$)(.*)')
+@register(outgoing=True, pattern='^.war(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(1)
-    await typew.edit("`Ahh Bibyy Mahh...🥺👉🏻👈🏻`")
+    await typew.edit("`Pe senggol dong`")
     sleep(4)
-    await typew.edit("**GUBLUKK...🤪**")
+    await typew.edit("**Diem mulu kaya kaleng**")
     sleep(4)
-    await typew.edit("`Ihh Ihh🥺...`")
+    await typew.edit("`woy gblk...`")
     sleep(4)
-    await typew.edit("`Maaf Bibyy...🥺`")
+    await typew.edit("`kena mental yaa...😪`")
     sleep(4)
-    await typew.edit("`Maaf Yaa Cayangku..`")
+    await typew.edit("`cupu kaliaaaaaaaaan 🖕🖕..`")
     sleep(4)
-    await typew.edit("`Nanti Aku Beliin Monas Deh Biar Nda Ngambek👉🏻👈🏻`")
+    await typew.edit("`Gua ada pantun nih`")
     sleep(4)
-    await typew.edit("`Udah Yaa Jangan Ngambek...`")
+    await typew.edit("`Eh gua lupaaa...`")
     sleep(4)
-    await typew.edit("`Maafin Akuu Byy😘`")
+    await typew.edit("`Maap bang gajadiii`")
     sleep(4)
-    await typew.edit("`Lovee Youu Bibyy `🥰")
+    await typew.edit("`heheee `😁")
     sleep(2)
-    await typew.edit("`Mwuachhh....😘💕`")
+    await typew.edit("`Kabur ahh ....🏃‍♂️🏃‍♂️🏃‍♂️`")
 # punya ikyy🥺
 
 
@@ -130,7 +130,7 @@ async def typewriter(typew):
     sleep(1)
     await typew.edit("`Awali perkataan dengan dengan salam`")
     sleep(1)
-    await typew.edit("`Assalamualaikum Sayang`")
+    await typew.edit("`Assalamualaikum Sayang 🐊`")
 
 
 CMD_HELP.update({
