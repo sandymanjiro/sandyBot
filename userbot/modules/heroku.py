@@ -182,7 +182,7 @@ async def dyno_usage(dyno):
 
             await dyno.edit(
                 "╭┈─╼━━━━━━━━━━━━━━━╾─┈╮ \n"
-                "│      ⇱𓆩🗿Paradise-Userbot🗿,𓆪⇲ \n"
+                "│       ⇱𓆩🌀ParadoXbot🌀,𓆪⇲ \n"
                 "╭┈─╼━━━━━━━━━━━━━━━╾─┈╮ \n"
                 "│◈ Penggunaan Kouta Anda : \n"
                 f"│◈ {AppHours} Jam - {AppMinutes} Menit. \n"
