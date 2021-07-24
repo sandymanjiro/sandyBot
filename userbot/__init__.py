@@ -101,7 +101,7 @@ GITHUB_ACCESS_TOKEN = os.environ.get("GITHUB_ACCESS_TOKEN", None)
 # Custom (forked) repo URL for updater.
 UPSTREAM_REPO_URL = os.environ.get(
     "UPSTREAM_REPO_URL",
-    "https://github.com/nishfu22/ParadoXbot.git")
+    "https://github.com/nishfu22/ParadoXbot")
 UPSTREAM_REPO_BRANCH = os.environ.get(
     "UPSTREAM_REPO_BRANCH", "Linux-Userbot")
 
@@ -390,7 +390,7 @@ with bot:
         @tgbot.on(events.NewMessage(pattern="/start"))
         async def handler(event):
             if event.message.from_id != uid:
-                await event.reply("🌀ParadoXbot🌀,Buat Userbot Mu Sendiri [Tekan Disini](https://github.com/nishfu22/ParadoXbot.git)")
+                await event.reply("🌀ParadoXbot🌀,Buat Userbot Mu Sendiri [Tekan Disini](https://github.com/nishfu22/ParadoXbot)")
             else:
                 await event.reply(f"`Hai Tuan {ALIVE_NAME}\n\nApa Kabarmu? Aku Siap Membantu ^_^`")
 
