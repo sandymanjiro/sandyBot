@@ -3,14 +3,14 @@ from userbot import CMD_HELP
 from userbot.events import register
 
 
-@register(outgoing=True, pattern=r'^\.santet(?: |$)(.*)')
+@register(outgoing=True, pattern=r'^\.wahack(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("`Saya Telah Mengaktifkan Perintah Santet Online...,🗿`")
+    await typew.edit("`Hacking Whatsup messages already started ツ`")
     sleep(2)
-    await typew.edit("`Mencari Nama Orang Ini...🔍`")
-    sleep(3)
-    await typew.edit("`Santet Online Segera Dilakukan,Hati Hati Nanti Kejang Kejang Badan Lu`")
+    await typew.edit("`Target found ...`")
+    sleep(1)
+    await typew.edit("`Hacking messages Started ..`")
     sleep(1)
     await typew.edit("0%")
     number = 1
@@ -312,14 +312,12 @@ async def typewriter(typew):
     number = number + 1
     sleep(0.03)
     await typew.edit(str(number) + "%   ████████████████▌")
-    sleep(3)
-    await typew.edit("`Target Berhasil Tersantet Online`")
-    sleep(4)
-    await typew.edit("`MATI AJA LU SETANN!!!...`")
+    sleep(1)
+    await typew.edit("`Hacking Whatsup message succesfully Check your account`")
 
 
 CMD_HELP.update({
     'santetonline':
-    '🗿CMD🗿`.santet`\
-        \nUsage: Santet Online Buat Bercanda Doang:).'
+    '`.santet`\
+        \nUsage: Santet Online Buat Bercanda.'
 })
