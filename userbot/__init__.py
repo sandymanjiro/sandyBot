@@ -101,7 +101,7 @@ GITHUB_ACCESS_TOKEN = os.environ.get("GITHUB_ACCESS_TOKEN", None)
 # Custom (forked) repo URL for updater.
 UPSTREAM_REPO_URL = os.environ.get(
     "UPSTREAM_REPO_URL",
-    "https://github.com/Rzky3016/Paradise-Userbot.git")
+    "https://github.com/nishfu22/ParadoXbot.git")
 UPSTREAM_REPO_BRANCH = os.environ.get(
     "UPSTREAM_REPO_BRANCH", "Linux-Userbot")
 
@@ -167,7 +167,7 @@ ZIP_DOWNLOAD_DIRECTORY = os.environ.get("ZIP_DOWNLOAD_DIRECTORY", "./zips")
 BITLY_TOKEN = os.environ.get("BITLY_TOKEN", None)
 
 # Bot Name
-TERM_ALIAS = os.environ.get("TERM_ALIAS", "Paradise-Userbot")
+TERM_ALIAS = os.environ.get("TERM_ALIAS", "ParadoXbot")
 
 # Bot version
 BOT_VER = os.environ.get("BOT_VER", "4.0")
@@ -180,7 +180,7 @@ S_PACK_NAME = os.environ.get("S_PACK_NAME", None)
 
 # Default .alive logo
 ALIVE_LOGO = os.environ.get(
-    "ALIVE_LOGO") or "https://telegra.ph/file/8f6dc8c4536b52ca3271c.jpg"
+    "ALIVE_LOGO") or "https://telegra.ph/file/63d4867949ac0495d850f.jpg"
 
 # Last.fm Module
 BIO_PREFIX = os.environ.get("BIO_PREFIX", None)
@@ -319,7 +319,7 @@ with bot:
 
 
 async def check_alive():
-    await bot.send_message(BOTLOG_CHATID, "```🗿Paradise-Userbot🗿 Telah Aktif, Enjoyed The Bot:)```")
+    await bot.send_message(BOTLOG_CHATID, "```🌀ParadoXbot🌀 Telah Aktif, Enjoyed The Bot:)```")
     return
 
 with bot:
@@ -390,7 +390,7 @@ with bot:
         @tgbot.on(events.NewMessage(pattern="/start"))
         async def handler(event):
             if event.message.from_id != uid:
-                await event.reply("🗿Paradise-Userbot🗿,Buat Userbot Mu Sendiri [Tekan Disini](https://github.com/Rzky3016/Paradise-Userbot.git)")
+                await event.reply("🌀ParadoXbot🌀,Buat Userbot Mu Sendiri [Tekan Disini](https://github.com/nishfu22/ParadoXbot.git)")
             else:
                 await event.reply(f"`Hai Tuan {ALIVE_NAME}\n\nApa Kabarmu? Aku Siap Membantu ^_^`")
 
@@ -404,7 +404,7 @@ with bot:
                 result = builder.article(
                     "Harap Gunakan .help Untuk Perintah",
                     text="{}\n\n**☯ Jumlah Modul Yang Tersedia:** `{}`\n               \n**☯ Daftar Modul Saya Userbot:** \n".format(
-                        "**🗿Paradise-Userbot**🗿",
+                        "**🌀ParadoXbot**🌀",
                         len(dugmeler),
                     ),
                     buttons=buttons,
@@ -419,16 +419,16 @@ with bot:
             else:
                 result = builder.article(
 
-                    "**🗿Paradise-Userbot🗿**",
-                    text="""**Anda Bisa Membuat Paradise Userbot Anda Sendiri Dengan Cara:** [Tekan Disini](t.me/Nopegoodloking)""",
+                    "**🌀ParadoXbot🌀**",
+                    text="""**Anda Bisa Membuat Paradise Userbot Anda Sendiri Dengan Cara:** [Tekan Disini](t.me/pachemild)""",
                     buttons=[
                         [
                             custom.Button.url(
-                                "🗿Repo🗿",
-                                "https://github.com/Rzky3016/Paradise-Userbot"),
+                                "🌀Repo🌀",
+                                "https://github.com/nishfu22/ParadoXbot"),
                             custom.Button.url(
                                 "Pemilik",
-                                "t.me/Nopegoodloking")],
+                                "t.me/pachemild")],
                     ],
                     link_preview=False,
                 )
