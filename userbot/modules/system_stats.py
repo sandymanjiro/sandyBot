@@ -224,10 +224,10 @@ async def amireallyalive(alive):
     user = await bot.get_me()
     await get_readable_time((time.time() - StartTime))
     output = (
-        f"**🗿Paradise-Userbot🗿** \n"
+        f"**❄ParadoXbot❄** \n"
         f"\n__**{PARADISE_TEKS_KUSTOM}**__\n"
         f"**══════════════════════**\n"
-        f"**𖣐PARADISE PROGRAM STARTED𖣐** \n"
+        f"**𖣐PARADOX PROGRAM STARTED𖣐** \n"
         f" ↳ : `{DEFAULTUSER}` \n"
         f"**👤 Username** \n"
         f" ↳ : `@{user.username}` \n"
@@ -263,14 +263,14 @@ async def amireallyalive(alive):
     await get_readable_time((time.time() - StartTime))
     output = (
         f"══════════════════════\n"
-        f"     ** 🗿Paradise-Userbot🗿 ** \n\n"
+        f"     ** ❄ParadoXbot❄ ** \n\n"
         f"🗿 **Bos Gua**  \n   ↳ `{DEFAULTUSER}` \n"
         f"👤 **Username** \n   ↳ `@{user.username}` \n"
         f"⚙️ **Telethon** \n   ↳ `Versi {version.__version__}` \n"
         f"🐍 **Python**   \n   ↳ `Versi {python_version()}` \n"
         f"👾 **Versi Bot**\n   ↳ `{BOT_VER}` \n"
         f"📂 **Modul**    \n   ↳ `{len(modules)}` \n\n"
-        f"✮ **Repo Paradise:** [Paradise-Userbot](https://github.com/Rzky3016/Paradise-Userbot)\n🛠️ **Group Support: **[Tekan](t.me/paradiseuserbot)\n👨‍💻 **Mastah:** [Rizky](t.me/Nopegoodloking)\n"
+        f"✮ **Repo Paradox:** [ParadoXbot](https://github.com/nishfu22/ParadoXbot)\n🛠️ **Group Support: **[Tekan](t.me/ZoneVirtuality)\n👨‍💻 **Mastah:** [Nishfu](t.me/pachemild)\n"
         f"══════════════════════")
     if ALIVE_LOGO:
         try:
@@ -296,16 +296,16 @@ async def amireallyalive(alive):
 async def amireallyalive(alive):
     await bot.get_me()
     await get_readable_time((time.time() - StartTime))
-    await alive.edit("..🗿Team-Paradise🗿..")
+    await alive.edit("..❄Team-Paradox❄..")
     output = (
-        f"════════🗿Team-Paradise🗿═════════\n"
+        f"════════❄Team-ParadoXbot❄═════════\n"
         f"**Nama Creator Kami**\n"
-        f"╟◈🛠️ Developer : [Rizky](t.me/Nopegoodloking) \n"
-        f"╟◈🛠️ Developer : [Rizky](t.me/Nopegoodloking) \n"
-        f"╟◈👤 Contributor : [Rizky](t.me/Nopegoodloking) \n"
+        f"╟◈🛠️ Developer : [Nishfu](t.me/pachemild) \n"
+        f"╟◈🛠️ Developer : [Nishfu](t.me/pachemild) \n"
+        f"╟◈👤 Contributor : [Nishfu](t.me/pachemild) \n"
         f"╰╼═══════════════════╾╯\n"
         f"**Terimakasih Telah Menggunakan Project Userbot Kami** 🙏 \n"
-        f"═════════🗿PARADISE🗿═════════════")
+        f"═════════🗿PARADOXBOT🗿═════════════")
     if ALIVE_LOGO:
         try:
             logo = ALIVE_LOGO
@@ -330,25 +330,25 @@ async def amireallyalive(alive):
 async def redis(alive):
     user = await bot.get_me()
     await get_readable_time((time.time() - StartTime))
-    await alive.edit("__🗿...USERBOT....🗿__")
+    await alive.edit("__🌀...USERBOT....🌀__")
     await alive.edit("__...Main..Program...__")
     await alive.edit("__SYSTEM WILL BE STARTED...__")
-    await alive.edit("__....🗿Userbot🗿....__")
+    await alive.edit("__....🌀Userbot🌀....__")
     await alive.edit("__Connecting...Alive.....__")
     await alive.edit("__.....Program ON.....__")
-    await alive.edit("__......🗿Alive..🗿......__")
+    await alive.edit("__......🌀Alive..🌀......__")
     await alive.edit("__Connecting to server..__")
     await alive.edit("__Connecting to server...__")
-    await alive.edit("🗿")
+    await alive.edit("🌀")
     await asyncio.sleep(3)
     output = (
         f"**ㅤㅤ  ╭─━━═━═━═━═━━─╮** \n"
-        f"**       ⊏┊🗿Paradise-Userbot🗿 ⊨🛠️ ** \n"
+        f"**       ⊏┊🌀ParadoXbot🌀 ⊨🛠️ ** \n"
         f"**ㅤㅤ  ╰─━━═━═━═━═━━─╯** \n"
         f"╭╼════════════════════╾╮ \n"
         f"│    ⇱ 𓆩𝐒𝐞𝐥𝐚𝐦𝐚𝐭 𝐃𝐚𝐭𝐚𝐧𝐠 𝐃𝐢 𝐀𝐥𝐢𝐯𝐞𓆪 ⇲ \n"
         f"┟╼════════════════════╾┤ \n"
-        f"╟◈ 🗿  `Bos Gua    :`{DEFAULTUSER} \n"
+        f"╟◈ 🤵🏻  `Bos Gua    :`{DEFAULTUSER} \n"
         f"╟◈ 👤 `Username :`@{user.username} \n"
         f"╟◈ ⚙️  `Telethon :`v. {version.__version__} \n"
         f"╟◈ 🐍  `Python   :`v. {python_version()} \n"
@@ -359,9 +359,9 @@ async def redis(alive):
         f"├◈ **Jangan lupa untuk mendukung kami** \n"
         f"│    **userbot, cara menekan di bawah ini.** \n"
         f"╰╼════════════════════╾╯ \n"
-        f"⪩ [Repo](https://github.com/Rzky3016/Paradise-Userbot)\n"
-        f"⪩ [Group-Help](t.me/paradiseuserbot)\n"
-        f"⪩ [Pemilik](t.me/Nopegoodloking) ")
+        f"⪩ [Repo](https://github.com/nishfu22/ParadoXbot)\n"
+        f"⪩ [Group-Help](t.me/ZoneVirtuality)\n"
+        f"⪩ [Pemilik](t.me/pachemild) ")
     if ALIVE_LOGO:
         try:
             logo = ALIVE_LOGO
