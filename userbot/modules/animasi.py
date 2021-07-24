@@ -3,19 +3,19 @@ from userbot import CMD_HELP
 from userbot.events import register
 
 
-@register(outgoing=True, pattern='^.iky(?: |$)(.*)')
+@register(outgoing=True, pattern='^.nis(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(2)
-    await typew.edit("`Hai Perkenalkan Namaku Rizky Panggil Aja Iky`")
+    await typew.edit("`Hai Perkenalkan Namaku Ibnu Panggil Aja sayang 😁`")
     sleep(3)
-    await typew.edit("`16 Tahun`")
+    await typew.edit("`20 Tahun`")
     sleep(3)
-    await typew.edit("`Owner Dari Paradise Userbot, Salam Kenal:)`")
+    await typew.edit("`Owner Dari ParadoXbot, Salam Kenal:)`")
     sleep(3)
     await typew.edit("`Dan Satu Lagi...`")
     sleep(3)
-    await typew.edit("`Gua Ganteng Njay 😏`")
+    await typew.edit("`Gua ga Ganteng² Njir 😏`")
 # Create by myself @localheart
 
 
