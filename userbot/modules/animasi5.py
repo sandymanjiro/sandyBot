@@ -4,14 +4,6 @@ from userbot.events import register
 
 
 
-@register(outgoing=True, pattern='^.masok(?: |$)(.*)')
-async def typewriter(typew):
-typew.pattern_match.group(1)
-sleep(1) await typew.edit("**masok**")
-sleep(1) await typew.edit("pak")
-sleep(1) await typew.edit("eko")
-sleep(1) await typew.edit("masuk pak eko")
-
 
 @register(outgoing=True, pattern='^.pece(?: |$)(.*)')
 async def typewriter(typew):
