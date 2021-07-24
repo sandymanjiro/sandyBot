@@ -1,7 +1,7 @@
 {
-  "name": "Paradise-Userbot",
-  "description": "[Paradise-Userbot] USERBOT TELEGRAM.",
-  "logo": "https://telegra.ph/file/8f6dc8c4536b52ca3271c.jpg",
+  "name": "ParadoXbot",
+  "description": "[ParadoXbot] USERBOT TELEGRAM.",
+  "logo": "https://telegra.ph/file/63d4867949ac0495d850f.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Rzky3016/Paradise-Userbot",
-  "telegram": "https://t.me/Nopegoodloking",
-  "success_url": "https://t.me/Nopegoodloking",
+  "repository": "https://github.com/nishfu22/ParadoXbot",
+  "telegram": "https://t.me/pachemild",
+  "success_url": "https://t.me/pachemild",
   "stack": "container",
   "env": {
     "API_KEY": {
