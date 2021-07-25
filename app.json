@@ -1,5 +1,5 @@
 {
-  "name": "ParadoXbot",
+  "name": "sandyBot",
   "description": "[ParadoXbot] USERBOT TELEGRAM.",
   "logo": "https://telegra.ph/file/63d4867949ac0495d850f.jpg",
   "keywords": [
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/nishfu22/ParadoXbot",
+  "repository": "https://github.com/sandymanjiro/sandyBot",
   "telegram": "https://t.me/pachemild",
   "success_url": "https://t.me/pachemild",
   "stack": "container",
