@@ -1,4 +1,4 @@
-# <p align="center"> 🌀 ParadoXbot 🌀
+# <p align="center"> 🌀 sandyBot 🌀
 ![Paradise-Userbot Logo](https://telegra.ph/file/63d4867949ac0495d850f.jpg)
 
 <p align="center">
@@ -50,7 +50,7 @@ String_Session   [![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/Genera
 ## <p align="center">DEPLOY ParadoXbot</p>
 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/nishfu22/ParadoXbot/tree/Paradise-Userbot"> <img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-yellow?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/sandymanjiro/sandyBot/tree/Paradise-Userbot"> <img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-yellow?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
 
 <br>
 </p>
